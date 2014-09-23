@@ -10,26 +10,24 @@ namespace Chapter5
     {
         static void Main(string[] args)
         {
-            int[] areacodes     = { 262,  414,  608,  715,  815,  920 };
+            int[] areacodes     = { 262,  414,  608,  715,  815,  920  };
             double[] perminrate = { 0.07, 0.10, 0.05, 0.16, 0.24, 0.14 };
-
-            double total;
             bool isValidCode    = false;
+            double total;
 
             Console.Write("Enter your area code: ");
-            if (Console.ReadLine() == areacodes[0].ToString())
+            for (int a = 0; a < areacodes.Length; ++a)
+            {
+                if (Console.ReadLine() == areacodes[a].ToString())
+                {
+                    isValidCode = true;
+                    total = Convert.ToDouble(Console.ReadLine()) * perminrate[a];
+                }
+            }
+            if (isValidCode)
             {
                 Console.Write("Enter how many minutes your call lasted: ");
-                int min = Convert.ToInt32(Console.ReadLine());
-                for (int i = 0; i < areacodes.Length; ++i)
-                {
-                    if (min == areacodes[i])
-                    {
-                        isValidCode = true;
-                        total = min;
-                        Console.WriteLine("\nYour total is ${0}.", min * perminrate[0]);
-                    }
-                }
+                Console.WriteLine("\nYour total is {0}.", total);
                 Thread.Sleep(3000);
             }
             else

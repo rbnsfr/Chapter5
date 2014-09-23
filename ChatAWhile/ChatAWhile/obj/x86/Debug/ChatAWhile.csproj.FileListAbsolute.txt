@@ -2,3 +2,7 @@ C:\Users\EAHSCS\AppData\Local\Temporary Projects\Chapter5\bin\Debug\Chapter5.exe
 C:\Users\EAHSCS\AppData\Local\Temporary Projects\Chapter5\bin\Debug\Chapter5.pdb
 C:\Users\EAHSCS\AppData\Local\Temporary Projects\Chapter5\obj\x86\Debug\Chapter5.exe
 C:\Users\EAHSCS\AppData\Local\Temporary Projects\Chapter5\obj\x86\Debug\Chapter5.pdb
+C:\Users\EAHSCS\Documents\GitHub\Chapter5\ChatAWhile\ChatAWhile\bin\Debug\ChatAWhile.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter5\ChatAWhile\ChatAWhile\bin\Debug\ChatAWhile.pdb
+C:\Users\EAHSCS\Documents\GitHub\Chapter5\ChatAWhile\ChatAWhile\obj\x86\Debug\ChatAWhile.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter5\ChatAWhile\ChatAWhile\obj\x86\Debug\ChatAWhile.pdb
