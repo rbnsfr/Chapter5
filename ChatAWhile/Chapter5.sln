@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatAWhile", "ChatAWhile\ChatAWhile.csproj", "{200E5A6C-2BCC-4A26-B1A0-FFC5AFE120D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerList", "IntegerList\IntegerList.csproj", "{7C99A13C-51F7-4ECA-9A96-F47EB3122893}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckZips", "CheckZips\CheckZips.csproj", "{9A2411C9-2FDB-4C8B-AA40-8DBC7C6185B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhippetBus", "WhippetBus\WhippetBus.csproj", "{5EBC8C2F-15DC-479E-A27A-D37EFA6FFDD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +19,18 @@ Global
 		{200E5A6C-2BCC-4A26-B1A0-FFC5AFE120D8}.Debug|x86.Build.0 = Debug|x86
 		{200E5A6C-2BCC-4A26-B1A0-FFC5AFE120D8}.Release|x86.ActiveCfg = Release|x86
 		{200E5A6C-2BCC-4A26-B1A0-FFC5AFE120D8}.Release|x86.Build.0 = Release|x86
+		{7C99A13C-51F7-4ECA-9A96-F47EB3122893}.Debug|x86.ActiveCfg = Debug|x86
+		{7C99A13C-51F7-4ECA-9A96-F47EB3122893}.Debug|x86.Build.0 = Debug|x86
+		{7C99A13C-51F7-4ECA-9A96-F47EB3122893}.Release|x86.ActiveCfg = Release|x86
+		{7C99A13C-51F7-4ECA-9A96-F47EB3122893}.Release|x86.Build.0 = Release|x86
+		{9A2411C9-2FDB-4C8B-AA40-8DBC7C6185B6}.Debug|x86.ActiveCfg = Debug|x86
+		{9A2411C9-2FDB-4C8B-AA40-8DBC7C6185B6}.Debug|x86.Build.0 = Debug|x86
+		{9A2411C9-2FDB-4C8B-AA40-8DBC7C6185B6}.Release|x86.ActiveCfg = Release|x86
+		{9A2411C9-2FDB-4C8B-AA40-8DBC7C6185B6}.Release|x86.Build.0 = Release|x86
+		{5EBC8C2F-15DC-479E-A27A-D37EFA6FFDD5}.Debug|x86.ActiveCfg = Debug|x86
+		{5EBC8C2F-15DC-479E-A27A-D37EFA6FFDD5}.Debug|x86.Build.0 = Debug|x86
+		{5EBC8C2F-15DC-479E-A27A-D37EFA6FFDD5}.Release|x86.ActiveCfg = Release|x86
+		{5EBC8C2F-15DC-479E-A27A-D37EFA6FFDD5}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

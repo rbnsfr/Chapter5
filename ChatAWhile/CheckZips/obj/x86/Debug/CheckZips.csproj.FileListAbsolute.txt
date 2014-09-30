@@ -1,0 +1,4 @@
+C:\Users\EAHSCS\Documents\GitHub\Chapter5\ChatAWhile\CheckZips\bin\Debug\CheckZips.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter5\ChatAWhile\CheckZips\bin\Debug\CheckZips.pdb
+C:\Users\EAHSCS\Documents\GitHub\Chapter5\ChatAWhile\CheckZips\obj\x86\Debug\CheckZips.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter5\ChatAWhile\CheckZips\obj\x86\Debug\CheckZips.pdb
