@@ -1,0 +1,4 @@
+C:\Users\EAHSCS\Documents\GitHub\Chapter5\ChatAWhile\TeeBall\bin\Debug\TeeBall.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter5\ChatAWhile\TeeBall\bin\Debug\TeeBall.pdb
+C:\Users\EAHSCS\Documents\GitHub\Chapter5\ChatAWhile\TeeBall\obj\x86\Debug\TeeBall.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter5\ChatAWhile\TeeBall\obj\x86\Debug\TeeBall.pdb

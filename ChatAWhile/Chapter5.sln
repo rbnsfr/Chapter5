@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckZips", "CheckZips\Chec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhippetBus", "WhippetBus\WhippetBus.csproj", "{5EBC8C2F-15DC-479E-A27A-D37EFA6FFDD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeeBall", "TeeBall\TeeBall.csproj", "{EFB96D77-A8F6-4BA9-A26B-137A1096456B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -31,6 +33,10 @@ Global
 		{5EBC8C2F-15DC-479E-A27A-D37EFA6FFDD5}.Debug|x86.Build.0 = Debug|x86
 		{5EBC8C2F-15DC-479E-A27A-D37EFA6FFDD5}.Release|x86.ActiveCfg = Release|x86
 		{5EBC8C2F-15DC-479E-A27A-D37EFA6FFDD5}.Release|x86.Build.0 = Release|x86
+		{EFB96D77-A8F6-4BA9-A26B-137A1096456B}.Debug|x86.ActiveCfg = Debug|x86
+		{EFB96D77-A8F6-4BA9-A26B-137A1096456B}.Debug|x86.Build.0 = Debug|x86
+		{EFB96D77-A8F6-4BA9-A26B-137A1096456B}.Release|x86.ActiveCfg = Release|x86
+		{EFB96D77-A8F6-4BA9-A26B-137A1096456B}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
